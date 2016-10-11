@@ -7,7 +7,7 @@
     "activationCommands": {
         "atom-workspace": "atom-center-comment:center"
     },
-    "repository": "https://github.com/atom/atom-center-comment",
+    "repository": "https://github.com/mfuroyama/center-comment",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
