@@ -1,0 +1,18 @@
+{
+    "context-menu": {
+        "atom-text-editor": [{
+            "label": "Center Comment",
+            "command": "atom-center-comment:center"
+        }]
+    },
+    "menu": [{
+        "label": "Packages",
+        "submenu": [{
+            "label": "Center Comment",
+            "submenu": [{
+                "label": "Center",
+                "command": "atom-center-comment:center"
+            }]
+        }]
+    }]
+}

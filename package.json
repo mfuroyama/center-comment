@@ -1,0 +1,18 @@
+{
+    "name": "atom-center-comment",
+    "main": "./lib/atom-center-comment",
+    "version": "0.0.0",
+    "description": "Atom Editor package for centering comments",
+    "keywords": [],
+    "activationCommands": {
+        "atom-workspace": "atom-center-comment:center"
+    },
+    "repository": "https://github.com/atom/atom-center-comment",
+    "license": "MIT",
+    "engines": {
+        "atom": ">=1.0.0 <2.0.0"
+    },
+    "dependencies": {
+    "lodash": "^3.10.0"
+    }
+}
