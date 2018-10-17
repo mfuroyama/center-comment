@@ -7,6 +7,9 @@
   "activationCommands": {
     "atom-workspace": "atom-center-comment:center"
   },
+  "scripts": {
+    "test": "atom --test spec/atom-center-comment-spec.js"
+  },
   "repository": "https://github.com/mfuroyama/center-comment",
   "license": "MIT",
   "engines": {
