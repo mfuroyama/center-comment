@@ -9,7 +9,7 @@ import buildCommentString from '../lib/build-comment-string';
 
 describe('AtomCenterComment', () => {
     beforeEach(() => {
-        atom.config.set('editor.preferredLineLength', 100);
+        atom.config.set('atom-center-comment.lineLength', 100);
     });
 
     describe('Centered comment conversion', () => {
