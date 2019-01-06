@@ -1,7 +1,7 @@
 {
   "name": "atom-center-comment",
   "main": "./lib/atom-center-comment",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Atom Editor package for centering comments",
   "keywords": [],
   "activationCommands": {
