@@ -1,6 +1,6 @@
 # Changelog
 
-### 0.4.0
+### 0.3.1
 * Bugfix: Fix the context scoping so that the formatter gets the right comment type
 
 ### 0.3.0
