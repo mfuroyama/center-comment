@@ -1,5 +1,6 @@
 {
     "atom-workspace": {
-        "shift-cmd-C": "atom-center-comment:center"
+        "shift-cmd-C": "atom-center-comment:center",
+        "shift-alt-C": "atom-center-comment:center"
     }
 }

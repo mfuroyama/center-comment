@@ -26,6 +26,8 @@ Atom text editor, it surprised me that a similar package didn't exist for Atom.
 The default shortcut key is `cmd+shift+c`, and will center commented text on lines under the current cursor. As of v0.2.0,
 the plugin also supports multi-cursor location comment centering!
 
+As of v0.3.2, this package also adds the `option/alt+shift+c` shortcut key combination. (Mostly because `cmd+shift+c` seems to be overridden by the `atom-ide-ui` package, which I happen to use!)
+
 The package uses the default editor 'Preferred Line Length' setting to determine the desired centered comment line length.
 
 ## Examples
